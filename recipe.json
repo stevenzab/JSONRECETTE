@@ -1,0 +1,135 @@
+{
+  "meals": [
+    {
+        "title": "Tarte aux pommes Frangipan",
+        "category": "Dessert",
+        "tags": "Fruit, sucré",
+        "instructions": "step1;step2;step3",
+        "timing": "10m;2m;30m",
+        "ingredients": "Aliment1;Aliment2;Aliment3",
+        "measures": "100;2;3",
+        "units": "g;cc;cs",
+        "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "title": "Pasta Carbonara",
+      "category": "Plat Principal",
+      "tags": "Pâtes,Italien,Dîner,Facile",
+      "instructions": "Cuire les pâtes selon les instructions sur l'emballage;Faire revenir les lardons;Battre les œufs avec le parmesan;Mélanger les pâtes avec les lardons;Ajouter le mélange d'œufs et de parmesan;Servir chaud avec du poivre noir",
+      "timing": "10m;5m;10m;5m;2m;3m",
+      "ingredients": "Spaghetti;Lardons;Oeufs;Parmesan;Poivre Noir",
+      "measures": "400;150;4;50;1",
+      "units": "g;g;pièce;g;g",
+      "ustensiles": "Poêle;Casserole;Bol",
+      "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+  },
+  {
+      "title": "Salade Niçoise",
+      "category": "Salade",
+      "tags": "Français,Sain,Facile",
+      "instructions": "Cuire les œufs durs;Couper les légumes;Égoutter le thon et les olives;Assembler la salade;Assaisonner",
+      "timing": "10m;5m;2m;5m;3m",
+      "ingredients": "Laitue;Tomates;Concombre;Oignons Rouges;Thon;Olives Noires;Oeufs;Huile d'Olive;Vinaigre;Sel;Poivre",
+      "measures": "200;200;100;50;200;50;4;30;15;1;1",
+      "units": "g;g;g;g;g;g;pièce;ml;ml;g;g",
+      "ustensiles": "Saladier;Couteau;Planche à découper",
+      "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+  },
+  {
+    "title": "Risotto aux Champignons",
+    "category": "Plat Principal",
+    "tags": "Italien,Crémeux,Végétarien",
+    "instructions": "Faire revenir les oignons et l'ail;Ajouter les champignons et cuire;Ajouter le riz et remuer;Verser le vin blanc et laisser réduire;Ajouter le bouillon chaud petit à petit;Incorporer le parmesan et le beurre;Servir chaud",
+    "timing": "5m;10m;3m;5m;20m;2m;3m",
+    "ingredients": "Riz Arborio;Champignons;Oignon;Ail;Vin Blanc;Bouillon de Légumes;Parmesan;Beurre",
+    "measures": "300;250;1;2;100;1;50;30",
+    "units": "g;g;pièce;g;ml;L;g;g",
+    "ustensiles": "Casserole;Poêle;Cuillère en bois",
+    "image": "https://www.themealdb.com/images/media/meals/xtuyvs1486986469.jpg"
+  },
+  {
+    "title": "Crème Brûlée",
+    "category": "Dessert",
+    "tags": "Sucré,Crème,Classique",
+    "instructions": "Préchauffer le four;Fouetter les jaunes d'œufs et le sucre;Ajouter la crème et la vanille;Verser le mélange dans des ramequins;Cuire au bain-marie;Refroidir puis saupoudrer de sucre;Caraméliser le sucre au chalumeau",
+    "timing": "10m;5m;5m;2m;40m;10m;3m",
+    "ingredients": "Crème Liquide;Sucre;Jaunes d'œufs;Vanille",
+    "measures": "500;100;5;1",
+    "units": "ml;g;pièce;gousse",
+    "ustensiles": "Fouet;Ramequins;Chalumeau",
+    "image": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg"
+  },
+  {
+    "title": "Couscous Royal",
+    "category": "Plat Principal",
+    "tags": "Maghrébin,Traditionnel,Festin",
+    "instructions": "Préparer les légumes et les viandes;Cuire les légumes dans le bouillon;Ajouter les viandes et laisser mijoter;Préparer la semoule de couscous;Servir la semoule avec les légumes et les viandes;Ajouter du bouillon au goût",
+    "timing": "20m;15m;30m;10m;5m;5m",
+    "ingredients": "Semoule de Couscous;Agneau;Poulet;Merguez;Navets;Carottes;Courgettes;Pois Chiches;Épices Ras El Hanout;Bouillon de Poule",
+    "measures": "500;300;300;200;2;4;2;150;20;1",
+    "units": "g;g;g;g;pièce;pièce;pièce;g;g;L",
+    "ustensiles": "Couscoussier;Couteau;Planche à découper",
+    "image": "https://www.themealdb.com/images/media/meals/qxytrx1511639118.jpg"
+  },
+  {
+    "title": "Lasagnes à la Bolognaise",
+    "category": "Plat Principal",
+    "tags": "Pâtes,Italien,Four,Traditionnel",
+    "instructions": "Préparer la sauce bolognaise;Préparer la sauce béchamel;Monter les lasagnes en alternant pâtes, sauce bolognaise, et sauce béchamel;Saupoudrer de fromage râpé;Cuire au four jusqu'à ce que le dessus soit doré",
+    "timing": "10m;15m;20m;5m;45m",
+    "ingredients": "Feuilles de Lasagnes;Viande Hachée;Tomates Concassées;Oignon;Ail;Lait;Farine;Beurre;Fromage Râpé",
+    "measures": "200;500;400;1;2;500;50;50;100",
+    "units": "g;g;g;pièce;gousses;ml;g;g;g",
+    "ustensiles": "Casserole;Plat à four;Fouet",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+  },
+  {
+    "title": "Fettuccine Alfredo",
+    "category": "Plat Principal",
+    "tags": "Pâtes,Italien,Crèmeux,Riche",
+    "instructions": "Cuire les fettuccine dans de l'eau salée;Faire fondre le beurre dans une poêle;Ajouter la crème et laisser mijoter;Incorporer le parmesan râpé;Mélanger la sauce avec les pâtes;Servir chaud avec du poivre noir",
+    "timing": "10m;5m;5m;5m;3m",
+    "ingredients": "Fettuccine;Beurre;Crème Liquide;Parmesan;Poivre Noir;Sel",
+    "measures": "400;50;200;100;1;1",
+    "units": "g;g;ml;g;g;g",
+    "ustensiles": "Casserole;Poêle;Fouet",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+  },
+  {
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Plat Principal",
+    "tags": "Pâtes,Italien,Végétalien,Simple",
+    "instructions": "Cuire les spaghetti dans de l'eau salée;Faire chauffer l'huile d'olive dans une poêle;Ajouter l'ail émincé et les flocons de piment rouge;Faire revenir jusqu'à ce que l'ail soit doré;Mélanger les spaghetti avec l'huile parfumée;Servir avec du persil frais",
+    "timing": "10m;5m;5m;5m;3m",
+    "ingredients": "Spaghetti;Ail;Huile d'Olive;Piment Rouge;Persil;Sel",
+    "measures": "400;4;50;1;10;1",
+    "units": "g;gousses;ml;pièce;g;g",
+    "ustensiles": "Casserole;Poêle;Cuillère en bois",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+  },
+  {
+    "title": "Penne all'arrabbiata",
+    "category": "Plat Principal",
+    "tags": "Pâtes,Italien,Épicé,Végétarien",
+    "instructions": "Cuire les pâtes dans de l'eau bouillante salée;Faire revenir l'ail et les piments dans l'huile d'olive;Ajouter les tomates et laisser mijoter;Mélanger la sauce avec les pâtes cuites;Servir chaud avec du persil frais",
+    "timing": "10m;5m;15m;3m;2m",
+    "ingredients": "Penne Rigate;Tomates Pelées;Ail;Piment Rouge;Huile d'Olive;Persil;Sel",
+    "measures": "400;400;2;1;30;10;1",
+    "units": "g;g;gousse;pièce;ml;g;g",
+    "ustensiles": "Casserole;Poêle;Cuillère en bois",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+  },
+  {
+      "title": "Poulet Tikka Masala",
+      "category": "Plat Principal",
+      "tags": "Viande,Indien,Épicé",
+      "instructions": "Mariner le poulet;Faire revenir l'oignon et l'ail;Ajouter le poulet mariné;Ajouter la sauce tomate et la crème;Laisser mijoter;Servir avec du riz",
+      "timing": "60m;10m;15m;5m;20m;5m",
+      "ingredients": "Poulet;Yaourt;Épices Tikka Masala;Oignon;Ail;Sauce Tomate;Crème Fraîche;Riz Basmati",
+      "measures": "500;150;20;100;10;200;100;200",
+      "units": "g;g;g;g;g;g;ml;g",
+      "ustensiles": "Poêle;Casserole;Cuillère en bois",
+      "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+  }
+  ]
+}
